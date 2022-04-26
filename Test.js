@@ -17,8 +17,7 @@
 
     array2.sort(function(a, b){return b - a});
     let result = array2[0] + array2[1];
-    console.log(result);
-
+    console.log(result); 
 
 /* Ex3: Tìm các cặp phần tử có tổng bằng 1 số cho trước
     let array3 = [1,7,9,2,5,3,8];
